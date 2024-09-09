@@ -1,0 +1,20 @@
+User Authentication System
+1)Database Connection 
+2)Registration/Sign Up page
+  Name,
+  Email,
+  Phone,
+  Password,
+  Confirm Password,
+  Submit button,
+  Cancel button,
+3)Login Page
+  User Name,
+  Email,
+  Password,
+  Check the user information to give the message in Alert Box,
+  Allow to access home page,
+4)Logout button in home page. 
+
+
+  
